@@ -1,2 +1,2 @@
-Hi! I'm Bob. I've been here for a while now.
+Hi! I'm Bob. I've been here for a while now and I'm new here.
 New line in Bob for testing merge.
