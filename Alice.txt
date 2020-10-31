@@ -1,3 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Now I'm learn about branches.
 New line in Alice for testing merge.
+
+Learning about rebase.
