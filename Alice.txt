@@ -4,4 +4,9 @@ New line in Alice for testing merge.
 
 Learning about rebase.
 Learning about Updating the Dev Environment with remote changes
+
 Hi!
+
+And
+Add conflict with remote repository
+
